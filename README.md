@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-177-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-181-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -66,172 +66,202 @@
 
 <br />
 
-## 25년 08월
-- __[2025 디지톡(Digi-talk) 토크콘서트](https://event-us.kr/dgdip/event/109632)__
-  - 분류: `오프라인(대구 수성구)`, `무료`, `기술일반`
-  - 주최: 대구디지털혁신진흥원
-  - 접수: 06. 06(수) ~ 08. 19(화)
+## 25년 10월
+- __[글로벌 게임 개발자 컨퍼런스](https://www.ggdc.or.kr/overview)__
+  - 분류: `오프라인(국립아시아문화전당 국제 회의실)`, `무료`, `기술일반`
+  - 주최: 광주광역시
+  - 접수: 09. 18(목) ~ 10. 22(수)
 
-- __[IoTcube Conference 2025](https://fairpass.co.kr/RunEventInfo?eventcode=3131)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 4단계 BK21 컴퓨터학교육연구단
-  - 접수: 07. 15(화) ~ 08. 19(화)
-- __[AWSKRUG #AIEngineering - Kiro Hands-on Lab](https://www.meetup.com/awskrug/events/310381376/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `AI`
-  - 주최: AWSKRUG
-  - 접수: 08. 12(화) ~ 08. 19(화) 19:00
-- __[코파일럿 에이전톤 in 서울 2025](https://onoffmix.com/event/329032)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: 마이크로소프트 코리아
-  - 접수: 08. 12(화) ~ 08. 20(수)
-- __[글로벌 IT 마스터 16인이 릴레이로 전하는 AI 시대 생존 전략](https://event-us.kr/gridge/event/108832)__
-  - 분류: `오프라인(서울 마포)`, `유료`, `AI`
-  - 주최: 그릿지
-  - 접수: 08. 01(금) ~ 08. 21(목)
-- __[Apache Airflow를 활용한 워크플로우 자동화 워크샵 in Busan](https://www.meetup.com/korea-apache-airflow-user-group/events/308773767)__
-  - 분류: `오프라인(부산)`, `무료`, `기술일반`
+- __[1st NAMUHX Hackathon 참가](https://docs.google.com/forms/d/e/1FAIpQLSd1b7K1f87vXOVijGNskmF5pxUeZ84YW7KhX4Cj28uUlXRX_w/viewform)__
+  - 분류: `오프라인(워커힐호텔)`, `무료`, `대회`
+  - 주최: SK인텔릭스
+  - 접수: 09. 22(월) ~ 10. 22(수)
+- __[패스트캠퍼스 '일할맛' 10월 자율주행 세미나 신청서](https://docs.google.com/forms/d/e/1FAIpQLSdwBTL8-MNpqMp2_qMTJ5J2yyapcw3WJCXkJnmctn2Yy_hLag/viewform)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 13(월) ~ 10. 22(수)
+- __[런웨이 알레프 & 나노 바나나로 배우는 AI 콘텐츠 제작](https://www.inflearn.com/challenge/live-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%9F%B0%EC%9B%A8%EC%9D%B4-%EC%95%8C%EB%A0%88%ED%94%84-amp)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 인프런
+  - 접수: 10. 15(수) ~ 10. 22(목)
+- __[DATADOG SUMMIT](https://events.datadoghq.com/ko/summits/datadog-summit-seoul/)__
+  - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
+  - 주최: 데이터독
+  - 접수: 09. 18(목) ~ 10. 23(목)
+- __[Airflow 한국 사용자 모임 4회 밋업](https://www.meetup.com/korea-apache-airflow-user-group/events/310886570/)__
+  - 분류: `오프라인(서울 을지로)`, `유료`, `밋업`
   - 주최: Airflow 한국 사용자 모임
-  - 일시: 07. 03(목) ~ 08. 22(금)
-- __[LG 소프트웨어 개발자 컨퍼런스 대학생 코딩대회 신청자 모집](https://www.lgsdc.com/program/lgcpc.php)__
-  - 분류: `온라인`, `오프라인`, `무료`, `대회`
-  - 주최: LG
-  - 접수: 07. 25(금) ~ 08. 22(금)
-- __[JPA의 사실과 오해 6기](https://event-us.kr/choyoungho/event/109477)__
-  - 분류: `오프라인(서울 서초)`, `유료(15만원)`, `벡엔드`
-  - 주최: LG
-  - 접수: 07. 25(금) ~ 08. 22(금)
-- __[[COMMIT] 사내 데이터, 여기에 다 ‘물어보새’요: RAG 도입과 고도화 이야기](https://tech.goorm.io/2508_commit/?utm_source=community&utm_medium=social&utm_campaign=commit)__
+  - 접수: 09. 18(목) ~ 10. 21(화)
+- __[바닥부터 시작하는 n8n 21일 챌린지 DAY 1, 2](https://fastcampus.co.kr/seminar_online_n8nchallenge)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 17(금) ~ 10. 21(화)
+- __[C# 개발자 모임: Dot4 밋업](https://onoffmix.com/event/332460)__
+  - 분류: `오프라인(서울 종로구)`, `무료`, `기술일반`
+  - 주최: C# 개발자 모임
+  - 접수: 10. 13(월) ~ 10. 23(목)
+- __[2025 AI·데이터 경진대회](https://www.bigcontest.or.kr/)__
+  - 분류: `오프라인(서울 송파)`, `무료`, `교육`, `AI`
+  - 주최: 한국정보통신진흥협회
+  - 접수: 09. 03(수) ~ 10. 24(금)
+- __[2025 제 3회 DX 포럼](https://www.dxchallenge.co.kr/events/2025-dxforum3)__
+  - 분류: `오프라인(부산)`, `무료`, `기술일반`
+  - 주최: 부산광역시, 부산테크노파크
+  - 접수: 01. 01(수) ~ 10. 24(금)
+- __[IT 커리어 우여곡절 컨퍼런스 2025](https://onoffmix.com/event/332132)__
+  - 분류: `오프라인(서울 성동구)`, `무료`, `기술일반`
+  - 주최: 커리어데이
+  - 접수: 10. 03(금) ~ 10. 24(금)
+- __[KSUG - Spring AI Meetup](https://event-us.kr/ksug/event/114010)__
+  - 분류: `오프라인(서울 강남구)`, `유료`, `기술일반`
+  - 주최: KSUG
+  - 접수: 10. 08(수) ~ 10. 24(금)
+- __[GGDC 2025 글로벌게임개발자컨퍼런스](https://ggdc.or.kr/)__
+  - 분류: `오프라인(광주 동구)`, `무료`, `기술일반`
+  - 주최: GGDC
+  - 접수: 10. 23(목) ~ 10. 24(금)
+- __[AI 시대, 무엇을 맡기고 무엇을 지켜야 하는가](https://tech.goorm.io/2510_commit/)__
   - 분류: `오프라인(경기 성남)`, `무료`, `AI`
   - 주최: 구름
-  - 접수: 08. 19(화) ~ 08. 22(금)
-- __[🎉NE(O)RDINARY FESTIVAL🎉 CMC 데모데이에 여러분을 초대합니다!](https://neordinary25.co.kr/)__
-  - 분류: `오프라인(경기 성남)`, `유료`, `모임`
-  - 주최: NE(O)RDINARY
-  - 알사: 08. 22(금) ~ 08. 23(토)
-- __[FEConf 2025(프론트엔드 컨퍼런스)](https://2025.feconf.kr/)__
-  - 분류: `오프라인(세종대학교)`, `유료`, `프론트엔드`
-  - 주최: FEConf
-  - 일시: 08. 23(토) 12:50 ~ 17:40 
-- __[VS Code Dev Days | Seoul](https://event-us.kr/powerplatform/event/109244)__
-  - 분류: `오프라인(서울 종로)`, `유료`, `AI`
-  - 주최: 파워 플랫폼 한국 유저 그룹
-  - 접수: 06. 30(월) ~ 08. 25(월)
-- __[2025 제8회 찾아가는 BIPA 테크콘](https://forms.gle/yTCSUg9Gtmmdgzc48)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 부산정보산업진흥원
-  - 접수: 08. 19(화) ~ 08. 25(월)
-- __[스크래퍼 개발자 모임 3회](https://event-us.kr/m/107196/37814)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
-  - 주최: 스크래퍼 개발자 모임
-  - 접수: 06. 30(월) ~ 08. 25(월)
-- __[[바이브코딩 일할맛 세미나] AI 퀄리티를 극한까지 끌어올리는 실무 바이브코딩 무료 세미나!](https://docs.google.com/forms/d/e/1FAIpQLScgN6fR_oVrvKr8hoe-guqz4LVZ5ujBw8EIEkNXhTjOI3UjmQ/viewform)__
+  - 접수: 10. 22(수) ~ 10. 24(금)
+- __[Red Hat Summit: Connect 2025](https://www.redhat.com/ko/summit/connect/apac/seoul-2025)__
+  - 분류: `오프라인(서울 삼성동)`, `무료`, `기술일반`
+  - 주최: 레드헷
+  - 접수: 10. 20(월) ~ 10. 27(월)
+- __[네이버: DAN 25](https://dan.naver.com/25)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 네이버
+  - 접수: 10. 27(월) ~ 10. 28(화)
+- __[AWSKRUG 플랫폼엔지니어링 모임](https://www.meetup.com/awskrug/events/311319232/)__
+  - 분류: `오프라인(서울 강남)`, `유로`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 28(화)
+- __[AI 와 스테이블코인: 공공 금융 패러다임의 전환](https://aifactory.space/task/9229/overview)__
+  - 분류: `오프라인(대선 유성구)`, `무로`, `AI`
+  - 주최: 이노폴리스벤처협회
+  - 접수: 10. 22(수) ~ 10. 28(화)
+- __[수익형 앱 런칭 동아리 CMC 18기 모집](https://cmc.makeus.in/apply)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: CMC
+  - 접수: 10. 20(월) ~ 10. 29(수)
+- __[AWSKRUG 컨테이너 #Container 모임](https://www.meetup.com/awskrug/events/311219342/)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `모임`
+  - 주최: AWSKRUG
+  - 접수: 10. 11(토) ~ 10. 29(수)
+- __[채널콘 2025 - AI: REAL CASES ONLY](https://channel.io/ko/blog/articles/channelcon2025-c716a069)__
+  - 분류: `오프라인(서울 역삼)`, `무료`, `기술일반`
+  - 주최: 채널콘
+  - 접수: 09. 24(수) ~ 10. 29(수)
+- __[AI 시대, 무엇을 맡기고 무엇을 지켜야 하는가](https://tech.goorm.io/2510_commit/)__
   - 분류: `온라인`, `무료`, `AI`
-  - 주최: 패스트 캠퍼스
-  - 접수: 08. 15(금) ~ 08. 27(수)
-- __[AWSKRUG 아키텍처 #architecture 53번째 소모임](https://www.meetup.com/awskrug/events/310365030)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 08. 09(토) ~ 08. 28(목)
-- __[도커 개발자 커뮤니티데이 코리아](https://www.meetup.com/docker-korea/events/308811059/)__
-  - 분류: `오프라인(서울 광화문)`, `무료`, `인프라`
-  - 주최: 도커 코리아
-  - 접수: 08. 15(금) ~ 08. 27(수)
-- __[25년도 오픈소스 컨트리뷰션 아카데미 [체험형-2차] 프로젝트 멘티 모집](https://www.oss.kr/contribution_academy_notice/show/5a5c21f4-3184-44ac-99af-41e3b3f74026)__
-  - 분류: `오프라인`, `무료`, `오픈소스`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 08(금) ~ 08. 31(일)
-- __[완전 자율 네트워크 운영을 위한 초단기 네트워크 트래픽 예측](https://aifactory.space/task/9162/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: ETRI 네트워크 해커톤
-  - 접수: 08. 01(금) ~ 08. 31(일)
-- __[2025 서울 AI 해커톤 신청서](https://docs.google.com/forms/d/e/1FAIpQLSeQCYiczcJLCAKhG9fsvcFUBrJbdtORDy7Tb0WiML4JtIqMOg/viewform)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: 서울AI재단
-  - 접수: 08. 12(화) ~ 08. 31(일)
-
-<br />
-
-## 25년 09월
-- __[Uracle AI Summit 2025](https://event-us.kr/uracle/event/109419)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 유라클
-  - 접수: 07. 14(월) ~ 09. 02(화)
-
-- __[AWSKRUG 컨테이너 모임 🐳 AWS SE: EKS Series #1](https://www.meetup.com/awskrug/events/310351943/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
-  - 주최: AWSKRUG
-  - 접수: 08. 09(토) ~ 09. 04(목)
-- __[KWDC25](https://www.ticketa.co/events/12)__
-  - 분류: `오프라인(서울)`, `유료`, `ios`
-  - 주최: KWDC25
-  - 접수: 07. 10(목) ~ 09. 05(목)
-- __[REAL Summit 2025](https://www.realsummit2025.com/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 삼성 SDS
-  - 접수: 07. 10(목) ~ 09. 05(목)
-- __[AI Challenge Season2](https://contest.dpgtestbed.kr/)__
-  - 분류: `오프라인`, `무료`, `AI`
-  - 주최: 과학기술정보통신부
-  - 접수: 08. 19(화) ~ 09. 05(목)
-- __[AI 커리어 스쿨 창업톤 L:AUNCH – 비수도권 청년 예비창업자 모집](https://slashpage.com/aics-launch)__
-  - 분류: `오프라인(대전)`, `무료`, `AI`
-  - 주최: 루트임팩트
-  - 접수: 08. 13(수) ~ 09. 09(화)
-- __[Dell Technologies Forum (델 테크놀로지스 포럼)](https://events.dell.com/event/edd57c8d-820b-4501-b95a-3a3055fedfb2/summary)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: 델
-  - 접수: 08. 04(월) ~ 09. 16(화)
-- __[LLM Agent & On-device AI Workshop 1기 모집](https://llamaacademy.kr/)__
-  - 분류: `오프라인(경기 판교)`, `무료`, `AI`
-  - 주최: Meta Llama Academy
-  - 접수: 08. 04(월) ~ 09. 16(화)
-- __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
-  - 분류: `오프라인`, `무료`, `클라우드`
-  - 주최: AWS
-  - 일시: 09. 23(화) ~ 09. 25(목)
-- __[2025 인공지능 페스타 (AI Festa 2025)](https://aifesta.kr/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 2025 인공지능 페스타
-  - 접수: 08. 04(월) ~ 09. 25(목)
-- __[AUSGCON2025:GROWTH](https://event-us.kr/awskrug/event/110245)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
-  - 주최: AWSKRUG AUSG
-  - 접수: 08. 17(월) ~ 08. 28(목)
-
-<br />
-
-## 25년 10월
-- __[2025 제 8회 핀테크 아이디어 공모전](https://fintech.or.kr/web/expo/idea.do?menu_id=10300)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 금융위원회
-  - 접수: 08. 04(월) ~ 10. 14(화)
-
+  - 주최: 구름
+  - 일시: 10. 24(금) 19:00 ~ 20:30
 - __[개방형 클라우드 플랫폼(K-PaaS) 활용 공모전](https://contest.k-paas.org/)__
   - 분류: `온라인`, `무료`, `클라우드`, `대회`
   - 주최: K-PasaS
   - 일시: 03. 24(월) ~ 10. 31(금)
+- __[Google Chrome Built-in AI Challenge 2025](https://googlechromeai2025.devpost.com/)__
+  - 분류: `온라인`, `무료`, `AI`, `대회`
+  - 주최: 구글
+  - 일시: 09. 15(월) ~ 10. 31(금)
+- __[SK TECH SUMMIT](https://www.skaisummit.com/)__
+  - 분류: `온라인`, `오프라인(서울 코엑스)`, `무료`, `AI`
+  - 주최: SK
+  - 일시: 10. 01(수) ~ 10. 31(금)
 
 <br />
 
 ## 25년 11월
-- __[FOSS for All Conference 2025](https://www.facebook.com/fossforall/photos/-foss-for-all-conference-2025-%EA%B0%9C%EC%B5%9C-%EC%86%8C%EC%8B%9D%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%83%9D%ED%83%9C%EA%B3%84%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AA%A8%EB%91%90%EC%9D%98-%EC%B6%95%EC%A0%9Cfoss-for-all-conference-20/122128934408874967/?_rdr)__
-  - 분류: `오프라인(광운대학교)`, `무료`, `기술일반`
+- __[K-DEVCON 2025](https://www.ticketa.co/events/33)__
+  - 분류: `오프라인(서울 광화문)`, `유료`,`기술일반`
+  - 주최: K-DEVCON
+  - 일시: 09. 27(토) ~ 11. 01(토)
+
+- __[AWS Community Day 2025 - AI로 혁신하는 최신 클라우드 기술 배우기](https://event-us.kr/awskrug/event/111847)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: AWSKRUG
+  - 접수: 10. 13(월) ~ 11. 03(월)
+- __[GenCon](https://gencon2025.fastcampus.co.kr/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 패스트캠퍼스
+  - 접수: 10. 17(금) ~ 11. 05(수)
+- __[FOSS for All Conference 2025](https://2025.fossforall.org/)__
+  - 분류: `오프라인(광운대학교)`, `유료`, `기술일반`
   - 주최: FOSS for All 
   - 접수: 08. 19(화) ~ 11. 07(금)
-
+- __[MVP 아이디어 기획 | 혁신 창업 아이디어 발굴 공모전](https://www.blaybus.com/activities/527/landing)__
+  - 분류: `온라인`, `무료`, `대회`
+  - 주최: Blaybus
+  - 접수: 10. 22(수) ~ 11. 07(금)
+- __[GopherCon Korea 2025](https://www.ticketa.co/events/25)__
+  - 분류: `오프라인`, `유료`, `기술일반`
+  - 주최: Golang Korea
+  - 일시: 11. 09(일) ~ 11. 09(일)
+- __[SSAFY 15기 모집](https://www.ssafy.com/ksp/servlet/swp.board.controller.SwpBoardServlet?p_process=select-board-view&p_menu_cd=&p_tabseq=226504&p_seq=165&p_pageno=)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: 삼성전자
+  - 접수: 10. 27(월) ~ 11. 10(월)
+- __[AI SUMMIT SEOUL & EXPO 2025](https://www.aisummitseoul.com/register)__
+  - 분류: `오프라인(서울)`, `유료`, `기술일반`
+  - 주최: DMK GLOBAL
+  - 일시: 10. 11(토) ~ 11. 09(일)
+- __[[2025 컴포즈 마법사] 안정성과 리컴포지션 최적화의 공식을 소개합니다](https://www.ticketa.co/events/34)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
+  - 주최: 지성빈
+  - 접수: 10. 03(금) ~ 11. 14(금)
+- __[AI 서밋 서울 앤 엑스포 2025](https://www.aisummit.co.kr/)__
+  - 분류: `오프라인(코엑스)`, `유료`, `기술일반`
+  - 주최: 서울특별시
+  - 접수: 09. 09(화) ~ 11. 11(화)
+- __[2025 한이음 드림업 엑스포 AI 아이디어톤](https://linkareer.com/activity/275327)__
+  - 분류: `온라인`, `무료`, `AI`
+  - 주최: 한이음 드림업
+  - 접수: 10. 02(목) ~ 11. 12(수)
+- __[Oracle Dev Day!](https://onoffmix.com/event/332356)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `기술일반`
+  - 주최: 한국 오라클
+  - 접수: 10. 20(월) ~ 11. 12(수)
+- __[2025 화성특례시 AI 공모전 “화성왔성”](https://aihscity.com/guide)__
+  - 분류: `온라인`, `유료`, `AI`
+  - 주최: 화성시
+  - 접수: 10. 17(금) ~ 11. 16(일)
+- __[CONNECT ON: 테크와 나를 잇다](https://form.naver.com/response/4hZpKZwC9EbZ6BwtTEqllQ)__
+  - 분류: `온라인`, `무료`, `AI`, `교육`
+  - 주최: 네이버 커넥트재단
+  - 접수: 10. 22(수) ~ 11. 16(일)
+- __[딥페이크 범죄 대응을 위한 AI 탐지 모델 경진대회](https://aifactory.space/task/9197/overview)__
+  - 분류: `오프라인`, `무료`, `대회`, `AI`
+  - 주최: 국립과학수사연구원
+  - 일시: 10. 23(목) ~ 11. 20(목)
+- __[Let'Swift 2025 : Ember to Stars](https://letswift.kr/2025/)__
+  - 분류: `오프라인`, `유료`, `iOS`
+  - 주최: Let'Swift
+  - 일시: 09. 29(월) ~ 11. 23(일)
 - __[AWS TechCamp](https://aws.amazon.com/ko/events/seminars/aws-techcamp/)__
   - 분류: `오프라인`, `무료`, `클라우드`
   - 주최: AWS
   - 일시: 11. 25(화) ~ 11. 27(목)
+- __[2025년 새싹(SeSAC) 해커톤 참가자 접수](https://sesac.seoul.kr/system/bbs/notice/detail.do?bbsSeq=11011&currentMenuId=900005001&parentSeq=)__
+  - 분류: `오프라인`, `무료`, `대회`
+  - 주최: 새싹
+  - 접수: 09. 30(화) ~ 11. 07(금)
 
 <br />
 
 ## 25년 12월
+- __[DEVFEST INCHEON 2025](https://www.ticketa.co/events/40)__
+  - 분류: `오프라인(인천 송도)`, `무료`, `기술일반`
+  - 주최: GDG 인천
+  - 접수: 10. 03(금) ~ 12. 05(금)
+
+- __[모두콘 2025](https://modulabs.co.kr/community/momos/424)__
+  - 분류: `오프라인(이화여대)`, `무료`, `AI`
+  - 주최: 모두의연구소
+  - 접수: 10. 17(금) ~ 12. 12(금)
 - __[네이버클라우드 Nclouder 모집: 기술 콘텐츠 영향력을 넓히고 싶은 분을 찾습니다](https://blog.naver.com/n_cloudplatform/223811699537)__
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: 네이버 클라우드
   - 접수: 03. 31(월) ~ 12. 31(수)
-
 - __[{ GNP : 2026 }](https://event-us.kr/gnp/event/109102)__
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: GEEKs
@@ -346,7 +376,9 @@
               <a href="./end_event/2025/25_05.md"> 05월 </a>,
               <a href="./end_event/2025/25_06.md"> 06월 </a>,
               <a href="./end_event/2025/25_07.md"> 07월 </a>,
-              <a href="./end_event/2025/25_08.md"> 08월 </a>
+              <a href="./end_event/2025/25_08.md"> 08월 </a>,
+              <a href="./end_event/2025/25_09.md"> 09월 </a>,
+              <a href="./end_event/2025/25_10.md"> 10월 </a>
             </td>
         </tr>
         <tr>
@@ -494,6 +526,8 @@
 | Datadog 한국 사용자 모임 | [homepage](https://datadogkrug.vercel.app) |
 | GDG Campus Korea | [homepage](https://gdg.community.dev/gdg-campus-korea/), [Instagram](https://www.instagram.com/gdg.campuskorea) |
 | 코드트리(Codetree) 글로벌 알고리즘 커뮤니티 | [Discord](https://discord.gg/XNB4JMJpuk) |
+| Seoul iOS Meetup | [homepage](https://meetup.com/seoul-ios-meetup), [채팅방](https://open.kakao.com/o/gMbf0M9g) |
+| Dev Korea | [homepage](https://dev-korea.com/events), [Discord](https://discord.gg/hqzMbuXy73) |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -757,6 +791,10 @@
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JinleeJeong"><img src="https://avatars.githubusercontent.com/u/45163013?v=4?s=100" width="100px;" alt="Jinlee"/><br /><sub><b>Jinlee</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=JinleeJeong" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yucori"><img src="https://avatars.githubusercontent.com/u/110710238?v=4?s=100" width="100px;" alt="Yucori"/><br /><sub><b>Yucori</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=yucori" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pmj-chosim"><img src="https://avatars.githubusercontent.com/u/114579651?v=4?s=100" width="100px;" alt="박민진"/><br /><sub><b>박민진</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pmj-chosim" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://florianldt.com"><img src="https://avatars.githubusercontent.com/u/9365651?v=4?s=100" width="100px;" alt="Florian Ludot"/><br /><sub><b>Florian Ludot</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=florianldt" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mandu5.vercel.app/"><img src="https://avatars.githubusercontent.com/u/58925260?v=4?s=100" width="100px;" alt="mandu"/><br /><sub><b>mandu</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=mandu5" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hyunolike.tistory.com/"><img src="https://avatars.githubusercontent.com/u/61215550?v=4?s=100" width="100px;" alt="장현호 Hyunho Jang"/><br /><sub><b>장현호 Hyunho Jang</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyunolike" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
