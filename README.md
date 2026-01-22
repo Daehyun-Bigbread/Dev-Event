@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-189-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-191-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -67,83 +67,11 @@
 <br />
 
 ## `26년 01월`
-- __[AWSKRUG 데브옵스 #DevOps 소모임 20번째 밋업 - re:Invent reCap](https://www.meetup.com/awskrug/events/312675440/)__
-  - 분류: `오프라인(서울 강남)`, `유료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 05(월) ~ 01. 13(화)
-
-- __[기본기 중심의 게임 개발자 완성 트랙](https://event.wanted.co.kr/potenup_game_4)__
-  - 분류: `오프라인`, `유료`, `교육`
-  - 주최: 원티드
-  - 접수: 12. 01(월) ~ 01. 16(금)
-- __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: AI SEOUL 2026
-  - 접수: 12. 01(월) ~ 01. 16(금)
-- __[2026 Fast Builderthon : AI 해커톤 모집](https://fastcampus.co.kr/builderthon2026)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
-  - 주최: 패스트캠퍼스
-  - 접수: 01. 02(금) ~ 01. 16(금)
-- __[6주완성 : 멋쟁이사자처럼](https://likelion.net/onboarding)__
-  - 분류: `온라인`, `유료`, `교육`
-  - 주최: 멋쟁이사자처럼
-  - 접수: 01. 13(화) ~ 01. 16(금) 14:00
-- __[AI 이후, 실리콘밸리 개발자는 어떻게 일하고 있는가](https://tech.goorm.io/2601_commit/)__
-  - 분류: `오프라인(경기 성남)`, `무료`, `AI`
-  - 주최: 구름
-  - 접수: 01. 13(화) ~ 01. 16(금) 17:00
-- __[Microsoft AI Community 밋업 '야~ 겨울이다'](https://event-us.kr/aiplayground/event/118827)__
-  - 분류: `오프라인(서울 종로)`, `무료`, `AI`
-  - 주최: AI 놀이터
-  - 접수: 01. 02(금) ~ 01. 17(토)
-- __[AWSKRUG Women In Cloud (온라인) ⚡️그래도 가고 싶다면 <해외취업 전략 - 캐나다>](https://www.meetup.com/awskrug/events/312726488/)__
-  - 분류: `온라인`, `무료`, `커리어`
-  - 주최: AWSKRUG
-  - 접수: 01. 10(토) ~ 01. 17(토)
-- __[크래프톤 정글 SW AI Lab 12기](https://jungle.krafton.com/schedule/swailab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
-- __[크래프톤 Game Lab 5기](https://jungle.krafton.com/schedule/gamelab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
-- __[크래프톤 정글 Tech Lab 3기](https://jungle.krafton.com/schedule/gametechlab)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 크래프톤 정글
-  - 접수: 12. 29(월) ~ 01. 18(일)
-- __[AI Co-Scientist Challenge Korea - Track 1](https://aifactory.space/task/9235/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 10(수) ~ 01. 18(일)
-- __[AI Co-Scientist Challenge Korea - Track 2](https://aifactory.space/task/9237/overview)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 과학기술정보통신부
-  - 접수: 12. 10(수) ~ 01. 18(일)
-- __[kakao MCP Player 10](https://b.kakao.com/views/PlayMCP/MCP_Player_10)__
-  - 분류: `온라인`, `무료`, `대회`
-  - 주최: 카카오
-  - 접수: 12. 19(금) ~ 01. 18(일)
-- __[KB IT’s Your Life 7기](https://inthiswork.com/archives/285573)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: 국민은행
-  - 접수: 12. 22(월) ~ 01. 19(월)
-- __[​OpenAI 콕스웨이브 해커톤: 멀티 에이전트 워크플로우](https://luma.com/23tmqe8f)__
-  - 분류: `오프라인`, `무료`, `대회`
-  - 주최: OpenAI, Coxwave
-  - 접수: 12. 25(목) ~ 01. 19(월)
-- __[Sonatype Nexus repository를 중심으로 본 Hugging Face  오픈소스 AI 모델 취약점과 NPM 공격사례](https://event-us.kr/grometric/event/117958)__
-  - 분류: `온라인`, `무료`, `AI`
-  - 주최: 그로메트릭
-  - 접수: 12. 05(금) ~ 01. 20(화)
-- __[AWSKRUG #Beginner 모임 - AWS Network 기초 이론과 Hands-on Lab](https://www.meetup.com/awskrug/events/312677101/)__
-  - 분류: `오프라인(서울 강남)`, `무료`, `클라우드`
-  - 주최: AWSKRUG
-  - 접수: 01. 05(월) ~ 01. 20(화)
 - __[AWS Community Builders Day 2026](https://event-us.kr/awskrug/event/118695)__
   - 분류: `오프라인(서울 강남)`, `유료`, `기술일반`
   - 주최: AWS
   - 접수: 12. 29(월) ~ 01. 21(수)
+
 - __[바이브 코딩 AI 프로젝트 실전 특강](https://event-us.kr/hanbitn/event/118798)__
   - 분류: `온라인`, `유료`, `AI`
   - 주최: 한빛+
@@ -176,10 +104,18 @@
   - 분류: `오프라인(서울 마포)`, `유료`, `모임`
   - 주최: Teendev
   - 접수: 01. 12(월) ~ 01. 23(금) 18:00
+- __[제 23회 BOAZ 빅데이터 컨퍼런스](https://event-us.kr/boaz/event/119509)__
+  - 분류: `오프라인(서울 중구)`, `무료`, `기술일반`
+  - 주최: BOAZ
+  - 접수: 01. 16(금) ~ 01. 23(금) 23:30
 - __[오픈소스 기여모임 10기](https://docs.google.com/forms/d/e/1FAIpQLScWdrUYOnb8l4UHLRSu7YUceiMip_ZheTYb9cFNbdTobS0C6A/viewform)__
   - 분류: `온라인`, `유료`, `오픈소스`
   - 주최: 오픈소스 기여모임
   - 접수: 01. 10(토) ~ 01. 25(일)
+- __[IT 연합동아리 Cloud Club 9기 모집](https://docs.google.com/forms/d/e/1FAIpQLSffxOpp39h9Qc7wOfMlMebiMW6F7PhF7zrcwyenY62Ylo_SxQ/viewform)__
+  - 분류: `온라인`, `오프라인` `무료`, `모임`
+  - 주최: Cloud Club
+  - 접수: 01. 12(월) ~ 01. 25(일)
 - __[OWASP Seoul Chapter 1월 세미나: AI 보안의 현재 — 실제 사례로 보는 위협과 방어](https://www.meetup.com/owasp-seoul/events/312560748)__
   - 분류: `오프라인(서울 강남)`, `무료`, `보안`
   - 주최: OWASP Seoul Chapter
@@ -188,6 +124,18 @@
   - 분류: `온라인`, `무료`, `클라우드`
   - 주최: AWSKRUG
   - 접수: 01. 05(월) ~ 01. 26(월)
+- __[AUSG Public BIGCHAT](https://www.meetup.com/awskrug/events/312827814)__
+  - 분류: `오프라인(서울 강남)`, `무료`, `AI`
+  - 주최: AWSKRUG
+  - 접수: 01. 05(월) ~ 01. 26(월)
+- __[AWSKRUG #AIEngineering 소모임 - Frontier Agent의 모든 것!](https://www.meetup.com/awskrug/events/312892561/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `AI`, `프론트엔드`
+  - 주최: AWSKRUG
+  - 접수: 01. 16(금) ~ 01. 28(수)
+- __[AI SEOUL 2026](https://www.aiseoul2026.com/kr/)__
+  - 분류: `오프라인(서울 코엑스)`, `무료`, `AI`
+  - 주최: 서울특별시
+  - 일시: 01. 20(화) ~ 01. 29(목)
 - __[2026 두나무 개발직군 대규모 채용](https://careers.dunamu.com/)__
   - 분류: `온라인`, `무료`, `커리어`
   - 주최: 두나무
@@ -200,6 +148,10 @@
   - 분류: `오프라인`, `무료`, `모임`
   - 주최: 한이음
   - 접수: 01. 05(월) ~ 01. 31(토)
+- __[성장과 상금은 누구의 것? 인프런 3주 '서바이벌' 챌린지 : All or Nothing!](https://inf.run/a4R1Q)__
+  - 분류: `오프라인`, `무료`, `모임`
+  - 주최: 인프런
+  - 접수: 01. 21(수) ~ 01. 31(토)
 
 <br />
 
@@ -209,6 +161,10 @@
   - 주최: Google Developer Group
   - 접수: 01. 13(화) ~ 02. 01(일)
 
+- __[2주 만에 끝내는 이력서 완성 코드](https://event.wanted.co.kr/career_kickoff_u10_1)__
+  - 분류: `온라인`, `무료`, `커리어`
+  - 주최: 원티드
+  - 접수: 01. 19(월) ~ 02. 02(월)
 - __[제 14회 정보보호&데이터보안 컨퍼런스](https://www.dailysecu.com/form/register.html?form_id=1765521809)__
   - 분류: `온라인`, `무료`, `보안`
   - 주최: 데일리시큐
@@ -221,6 +177,27 @@
   - 분류: `온라인`, `무료`, `AI`
   - 주최: 패스트캠퍼스
   - 접수: 11. 21(금) ~ 02. 06(금)
+- __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 서울 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 01. 12(월) ~ 02. 11(수)
+- __[2026년도 AI·SW마에스트로 멘토 모집](https://event.wanted.co.kr/swmaestro17_mentor)__
+  - 분류: `오프라인(서울 부산)`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 01. 20(화) ~ 02. 20(금) 17:00
+
+<br />
+
+## `26년 03월`
+- __[2026년도 AI·SW마에스트로 제17기 연수생 모집 - 부산 센터](https://swmaestro.ai/sw/main/notifyMentee.do?menuNo=200091)__
+  - 분류: `오프라인`, `무료`, `교육`
+  - 주최: AI·SW마에스트로
+  - 접수: 02. 13(금) ~ 03. 12(목)
+
+- __[AWSKRUG #container 🐳 re:Invent reCap: 컨테이너 서비스](https://www.meetup.com/awskrug/events/312746598/)__
+  - 분류: `오프라인(서울 강남)`, `유료`, `인프라`
+  - 주최: AWSKRUG
+  - 접수: 01. 13(월) ~ 02. 11(수)
 - __[HyphenCon '26 - 성공하는 스타트업의 CTO되기](https://cto-conf.hyphen.it.com/)__
   - 분류: `온라인`, `무료`, `AI`
   - 주최: HyphenCon
@@ -397,7 +374,7 @@
 | R&Dix | AI와 SYSTEM을 위한 개발 학술 동아리 | [공식 홈페이지](https://rndix.co.kr/) |
 | Cursor Korea | 커서 공식 한국 사용자 모임 | [공식 홈페이지](https://www.cursorkorea.org/) |
 | ​Instruct.KR | AI 연구자, 엔지니어, 프로덕트 팀을 위한 AI 리서쳐 및 실무자 중심의 커뮤니티 | [디스코드](https://instruct.kr/) |
-
+| KUSITMS | 비전을 가지고 성장하는 한국대학생 IT경영학회                      | [공식 홈페이지](https://www.kusitms.com/), [instagram](https://www.instagram.com/kusitms_official/)  |
 
 > :arrow_double_up: [Top](#지난-행사-기록)
 
@@ -782,6 +759,10 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kyungseopk1m"><img src="https://avatars.githubusercontent.com/u/101553623?v=4?s=100" width="100px;" alt="kyungseopk1m"/><br /><sub><b>kyungseopk1m</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=kyungseopk1m" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/hyewon4052"><img src="https://avatars.githubusercontent.com/u/129272496?v=4?s=100" width="100px;" alt="혜원"/><br /><sub><b>혜원</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=hyewon4052" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pkjdev"><img src="https://avatars.githubusercontent.com/u/217580173?v=4?s=100" width="100px;" alt="pkjdev"/><br /><sub><b>pkjdev</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=pkjdev" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/psm1st"><img src="https://avatars.githubusercontent.com/u/145013061?v=4?s=100" width="100px;" alt="Sumin"/><br /><sub><b>Sumin</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=psm1st" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Rockernun"><img src="https://avatars.githubusercontent.com/u/114344042?v=4?s=100" width="100px;" alt="Rockernun"/><br /><sub><b>Rockernun</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=Rockernun" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
